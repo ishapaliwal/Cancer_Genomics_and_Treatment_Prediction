@@ -57,7 +57,7 @@ This project focuses on leveraging **machine learning** techniques to predict ca
 
 The detailed results and analysis can be viewed:
 - **Presentation**: [Project Presentation (PPTX)](https://github.com/ishapaliwal/Cancer_Genomics_and_Treatment_Prediction/blob/main/CANCER%20GENOMICS%20AND%20PERSONALIZED%20MEDICINE%20Project%20Presentation.pptx)
-- **Notebook**: Refer to the [Jupyter notebook](https://github.com/ishapaliwal/Cancer_Genomics_and_Treatment_Prediction/blob/main/CANCER%20GENOMICS%20AND%20PERSONALIZED%20MEDICINE%20Project%20Presentation.pptx) under `/Notebooks`
+- **Notebook**: Refer to the [Jupyter notebook](https://github.com/ishapaliwal/Cancer_Genomics_and_Treatment_Prediction/blob/main/Notebooks/Cancer%20Genomics%20Project.ipynb) under `/Notebooks`
 
 ---
 
