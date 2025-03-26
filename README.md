@@ -4,7 +4,7 @@
 
 This project focuses on leveraging **machine learning** techniques to predict cancer treatment outcomes using **genomic data**. By analyzing real-world clinical and genomic data from **The Cancer Genome Atlas (TCGA)**, the project aims to assist in **personalized treatment strategies** - a crucial step toward precision medicine.
 
-> **Dataset:** [TCGA (Breast Cancer subset)](https://portal.gdc.cancer.gov/)
+> **Dataset:** TCGA (Breast Cancer subset)
 > **Institution:** School of Engineering & Applied Science, George Washington University  
 
 ---
