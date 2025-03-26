@@ -50,9 +50,9 @@ This project focuses on leveraging **machine learning** techniques to predict ca
 
 | Target Column         | Selected Model | Metrics (Accuracy / AUC etc.) |
 |----------------------|----------------|-------------------------------|
-| `vital_status`       | Decision Tree  | ✔️ Best performance           |
-| `ajcc_pathologic_stage` | Decision Tree  | ✔️ Best performance           |
-| `treatment_type`     | Decision Tree  | ✔️ Best performance           |
+| `vital_status`       | Decision Tree  | Best performance           |
+| `ajcc_pathologic_stage` | Decision Tree  | Best performance           |
+| `treatment_type`     | Decision Tree  | Best performance           |
 
 ---
 
